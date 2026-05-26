@@ -1,1 +1,1 @@
-Initial commit: Sana Travel website
+Initial commit: Sana Travel websit
